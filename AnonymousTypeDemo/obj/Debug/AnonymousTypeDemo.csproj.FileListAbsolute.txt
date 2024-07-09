@@ -1,0 +1,7 @@
+C:\Users\dell\source\repos\AnonymousTypeDemo\AnonymousTypeDemo\bin\Debug\AnonymousTypeDemo.exe.config
+C:\Users\dell\source\repos\AnonymousTypeDemo\AnonymousTypeDemo\bin\Debug\AnonymousTypeDemo.exe
+C:\Users\dell\source\repos\AnonymousTypeDemo\AnonymousTypeDemo\bin\Debug\AnonymousTypeDemo.pdb
+C:\Users\dell\source\repos\AnonymousTypeDemo\AnonymousTypeDemo\obj\Debug\AnonymousTypeDemo.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\AnonymousTypeDemo\AnonymousTypeDemo\obj\Debug\AnonymousTypeDemo.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\AnonymousTypeDemo\AnonymousTypeDemo\obj\Debug\AnonymousTypeDemo.exe
+C:\Users\dell\source\repos\AnonymousTypeDemo\AnonymousTypeDemo\obj\Debug\AnonymousTypeDemo.pdb
